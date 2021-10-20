@@ -19,4 +19,4 @@
 <h3 align="left">Most Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveentharindu&show_icons=true&locale=en&layout=compact" alt="praveentharindu" /></p>
 
-<p><h3 align="left">GitHub Stats:</h3> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveentharindu&show_icons=true&locale=en" alt="praveentharindu" /></p>
+<p><br/><br/> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveentharindu&show_icons=true&locale=en" alt="praveentharindu" /></p>
